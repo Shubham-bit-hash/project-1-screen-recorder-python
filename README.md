@@ -11,7 +11,7 @@ You need also computer connected to internet to activate bot.
 
 How to run this software .
 >>first of all , You enter into the folder.
->> run python main.py in command prompt.
+>> run "python main.py" in command prompt.
 >>and most important you have to create bot on telegram and the token given botFather copy that token and paste it in bot.py  .
 
 
