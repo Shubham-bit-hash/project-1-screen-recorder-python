@@ -40,7 +40,7 @@ in command prompt.
 >> bot is fully operational before you do this.
 
 > Use this token to access the HTTP API:
-> <your own token which is different for every user>
+> here <your_own_token_which_is_different_for_every_user>
 > Keep your token secure and store it safely, it can be used by anyone to control your bot.
 
 > For a description of the Bot API, see this page: https://core.telegram.org/bots/api
